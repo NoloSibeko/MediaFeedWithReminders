@@ -28,6 +28,8 @@ Built with **FlashList**, **Expo Image**, and a mock API.
 1. Clone the repo:
    ```bash
    git clone https://github.com/NoloSibeko/MediaFeedWithReminders.git
-   cd typescript
+   cd MediaFeedWithReminders
+   npm install (npm install --force in the event it doesn't go through)
+   close and reopen the application 
  - npx expo start
  - scan the QR Code
